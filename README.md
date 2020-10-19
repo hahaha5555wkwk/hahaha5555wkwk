@@ -3,6 +3,9 @@
 <!--
 **hahaha5555wkwk/hahaha5555wkwk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+"I'm a lecture on Illinois University"
+"I'm from Rusia"
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
